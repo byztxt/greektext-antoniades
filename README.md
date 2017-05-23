@@ -11,6 +11,12 @@ tags and Strong's numbers
 For more information, see the documentation files in the "textonly"
 subdirectory.
 
+## Internet addresses?
+
+1. https://www.byzantinetext.com
+
+2. https://github.com/byztxt/
+
 ## License?
 
 Public Domain.  Copy freely.
