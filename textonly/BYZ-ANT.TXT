@@ -1,0 +1,2958 @@
+The following collation comparing the Robinson-Pierpont Byzantine
+Textform 2005 edition (hereafter Byz05) and the Antoniades 1904/1912
+Patriarchal edition (hereafter Antoniades) was prepared electronically,
+with complete checking and verification by Maurice A. Robinson and
+Jussi Ala-Konni.
+
+Unless otherwise specified, the Antoniades 1904 edition agrees with its
+corrected 1912 reprint. Entries marked as "(sic)" indicate errors,
+typographical or syntactical, as well as otherwise questionable
+readings that appear in one or both of the Antoniades editions.
+
+Note that this collation does not indicate words appearing in small
+type in the Antoniades 1904/1912 editions whenever such read
+identically with Byz05. The complete listing of all small type words
+(bracketed [ ] in the present edition) that appear within the
+Antoniades 1904/1912 editions is provided in the separate file
+ANTSMALL.PRN.
+
+COLLATION FORMAT:
+
+BYZ05 ] ANTONIADES
+
+Lu 17:36  Byz05 contains no text.
+Ac 8:37   Byz05 contains no text.
+Ac 15:34  Byz05 contains no text.
+Ac 24:7   Byz05 contains no text.
+
+There are 1555 differences between Byz05 and the Antoniades 1912
+corrected edition. Due to various errors or alternate variants, the
+Antoniades 1904 edition contains 6 erroneous readings, as well as
+agreement with Byz05 in 2 instances; thus there exists a net difference
+of 4, giving a total of 1559 differences for the Antoniades 1904
+edition.
+
+MATTHEW (162)
+
+<Mt 3:11>
+agiw ] + kai puri
+<Mt 5:23>
+kai ekei ] kakei
+<Mt 5:26>
+ewv an ] ewv ou
+<Mt 5:27>
+erreyh ] + toiv arcaioiv
+<Mt 5:31>
+de oti ] de
+<Mt 5:45>
+toiv ouranoiv ] ouranoiv
+<Mt 6:4>
+autov apodwsei ] apodwsei
+<Mt 6:18>
+soi ] + [en tw fanerw]
+<Mt 7:7>
+anoighsetai umin ] anoighsetai hmin (sic)
+<Mt 7:20>
+ara ge ] arage
+<Mt 8:13>
+ekatontarch ] ekatontarcw
+<Mt 8:25>
+mayhtai ] + autou
+<Mt 9:1>
+to ploion ] ploion
+<Mt 9:5>
+egeirai ] egeire
+<Mt 9:11>
+dia ti ] diati
+<Mt 9:14>
+dia ti ] diati
+<Mt 9:15>
+oson ] + [cronon]
+<Mt 9:17>
+alla ballousin oinon neon eiv askouv ] alla oinon neon eiv askouv ballousin
+<Mt 9:18>
+eiv elywn ] [eiv] proselywn
+<Mt 9:33>
+legontev ] + oti
+<Mt 9:36>
+eskulmenoi ] eklelumenoi
+wsei ] wv
+<Mt 10:2>
+estin ] eisin
+<Mt 10:4>
+ioudav ] + o
+<Mt 10:8>
+kayarizete ] + [nekrouv egeirete]
+<Mt 10:10>
+rabdouv ] rabdon
+gar ] + estin
+autou estin ] autou
+<Mt 10:12>
+authn ] + legontev eirhnh tw oikw toutw
+<Mt 10:14>
+exercomenoi ] + exw
+<Mt 10:15>
+gomorrwn ] gomorrav
+<Mt 10:19>
+paradidwsin ] paradwsousin
+lalhshte ] lalhsete
+<Mt 10:25>
+o doulov ] tw doulw
+oikeiakouv ] oikiakouv
+<Mt 10:28>
+fobeisye ] fobhyhte
+apoktenontwn ] apoktennontwn
+thn quchn ] quchn
+kai to swma ] kai swma
+<Mt 10:36>
+oikeiakoi ] oikiakoi
+<Mt 11:8>
+basileiwn ] basilewn
+<Mt 11:16>
+en agoraiv kayhmenoiv ] kayhmenoiv en agoraiv
+kai prosfwnousin ] a prosfwnounta
+<Mt 11:17>
+kai legousin ] legousin
+<Mt 11:21>
+egenonto ] egenhyhsan
+spodw ] + kayhmenai
+<Mt 11:23>
+egenonto ] egenhyhsan
+<Mt 12:4>
+toiv iereusin monoiv ] monoiv toiv iereusin
+<Mt 12:8>
+tou sabbatou o uiov tou anyrwpou ] o uiov tou anyrwpou kai tou sabbatou
+<Mt 12:10>
+hn ] + ekei 
+<Mt 12:13>
+thn ceira sou ] sou thn ceira
+<Mt 12:14>
+oi de farisaioi ] exelyontev de oi farisaioi
+exelyontev opwv ] opwv
+<Mt 12:16>
+auton poihswsin ] poihswsin auton
+<Mt 12:23>
+estin ] + o cristov
+<Mt 12:25>
+eauthv ] eauthn (2x)
+<Mt 12:27>
+ekballousin ] ekbalousin
+umwn esontai kritai ] kritai esontai umwn
+<Mt 12:28>
+en pneumati yeou egw ] egw en pneumati yeou
+<Mt 12:29>
+diarpasai ean ] arpasai ean
+<Mt 12:40>
+hn ] egeneto
+iwnav ] + o profhthv
+estai ] + [kai]
+<Mt 12:44>
+epistreqw eiv ton oikon mou ] eiv ton oikon mou epistreqw
+scolazonta ] + [kai]
+<Mt 12:45>
+tauth th ponhra ] th ponhra tauth
+<Mt 12:46>
+autw lalhsai ] lalhsai autw
+<Mt 12:47>
+exw esthkasin ] esthkasin exw
+soi lalhsai ] se idein
+<Mt 12:48>
+eiponti ] legonti
+<Mt 12:49>
+eipen ] efh
+<Mt 13:1>
+apo thv ] thv
+<Mt 13:2>
+to ploion ] ploion
+<Mt 13:3>
+speirein ] speirai
+<Mt 13:4>
+hlyen ] elyonta
+kai katefagen ] katefagen
+<Mt 13:10>
+dia ti ] diati
+<Mt 13:13>
+oti ] ina
+ou blepousin ] mh blepwsin
+ouk akouousin ] mh akouwsin
+oude suniousin ] mhde sunwsin mhpote epistreqwsin
+<Mt 13:14>
+anaplhroutai ] tote plhrwyhsetai
+<Mt 13:16>
+akouei ] akouousin
+<Mt 13:18>
+speirontov ] speirantov
+<Mt 13:19>
+arpazei ] airei
+<Mt 13:20>
+euyuv ] euyewv
+carav ] + [decomenov kai]
+<Mt 13:24>
+speironti ] speiranti
+<Mt 13:28>
+sullexomen ] sullexwmen
+<Mt 13:32>
+meizon ] + [pantwn]
+<Mt 13:33>
+ekruqen ] enekruqen
+<Mt 13:34>
+ouk ] ouden
+<Mt 13:36>
+o ihsouv ] autou
+<Mt 13:48>
+anabibasantev ] + authn
+<Mt 14:13>
+kai akousav ] akousav de
+<Mt 14:22>
+mayhtav ] + autou
+<Mt 14:36>
+ina ] + kan
+<Mt 15:2>
+dia ti ] diati
+<Mt 15:3>
+dia ti ] diati
+<Mt 15:12>
+akousantev ton logon eskandalisyhsan ] eskandalisyhsan akousantev ton logon
+<Mt 15:31>
+kwfouv ] + [akouontav alalouv]
+<Mt 15:36>
+tw oclw ] toiv ocloiv
+<Mt 16:3>
+dunasye ] + [gnwnai]
+<Mt 16:12>
+alla ] all
+<Mt 16:28>
+wde estwtev ] twn wde esthkotwn
+<Mt 17:2>
+egenonto ] egeneto
+<Mt 17:4>
+mwsh ] mwsei
+<Mt 17:9>
+ek tou orouv ] apo tou orouv
+<Mt 17:12>
+alla ] all
+<Mt 17:19>
+dia ti ] diati
+<Mt 17:22>
+en th galilaia ] eiv thn galilaian
+<Mt 17:26>
+ara ge ] arage
+<Mt 17:27>
+anabainonta ] anabanta
+<Mt 19:5>
+patera ] + autou
+proskollhyhsetai ] kollhyhsetai
+<Mt 19:13>
+tav ceirav epiyh autoiv ] epiyh autoiv tav ceirav
+<Mt 19:15>
+autoiv tav ceirav ] tav ceirav autoiv
+<Mt 19:26>
+dunata ] + estin
+<Mt 20:26>
+outwv de ] outwv
+<Mt 20:27>
+estw ] estai
+<Mt 21:25>
+dia ti ] diati
+<Mt 21:28>
+anyrwpov ] + tiv
+<Mt 22:7>
+kai akousav ] akousav de
+<Mt 22:9>
+an ] ean
+<Mt 22:28>
+gunh ] h gunh
+<Mt 22:30>
+tou yeou ] yeou
+<Mt 22:37>
+kardia ] th kardia
+quch ] th quch
+<Mt 23:5>
+platunousin de ] platunousin gar
+<Mt 23:6>
+te ] de
+<Mt 23:8>
+estin umwn ] umwn estin
+o kayhghthv ] [o] didaskalov
+<Mt 23:18>
+ov ean ] ov an
+<Mt 23:23>
+tauta ] + de
+<Mt 23:36>
+panta tauta ] tauta panta
+<Mt 23:37>
+apoktenousa ] apoktennousa
+<Mt 23:39>
+idhte ] idete (sic)
+<Mt 24:2>
+panta tauta ] tauta panta
+<Mt 24:49>
+sundoulouv ] + autou
+esyiein ] esyih
+pinein ] pinh
+<Mt 25:3>
+lampadav autwn ] lampadav eautwn
+<Mt 25:9>
+arkesh ] arkesei
+<Mt 25:21>
+efh de ] efh
+<Mt 25:44>
+apokriyhsontai ] + autw
+<Mt 26:9>
+ptwcoiv ] [toiv] ptwcoiv
+<Mt 26:11>
+pantote gar touv ptwcouv ] touv ptwcouv gar pantote
+<Mt 26:15>
+kagw ] kai egw
+<Mt 26:17>
+etoimasomen ] etoimaswmen
+<Mt 26:29>
+gennhmatov ] genhmatov
+<Mt 26:31>
+diaskorpisyhsetai ] diaskorpisyhsontai
+<Mt 26:35>
+aparnhswmai ] aparnhsomai
+<Mt 26:39>
+proselywn ] proelywn
+<Mt 26:75>
+tou ihsou ] ihsou
+<Mt 27:9>
+tetimhmenou ] tetimhmhmenou (sic)
+<Mt 27:35>
+ballontev ] balontev
+<Mt 27:42>
+pisteusomen ] pisteuswmen
+<Mt 27:46>
+ina ti ] inati
+<Mt 27:55>
+ekei ] + kai
+<Mt 27:65>
+efh de ] efh
+<Mt 28:10>
+kai ekei ] kakei
+
+MARK (293)
+
+<Mr 1:9>
+ihsouv ] o ihsouv
+<Mr 1:10>
+wsei ] wv
+<Mr 1:11>
+en w ] en soi
+eudokhsa ] hudokhsa
+<Mr 1:12>
+euyuv ] euyewv
+<Mr 1:14>
+ton iwannhn ] iwannhn
+<Mr 1:28>
+exhlyen de ] kai exhlyen
+<Mr 1:33>
+h poliv olh episunhgmenh hn ] hn h poliv olh episunhgmenh
+<Mr 1:34>
+auton ] + criston einai
+<Mr 1:35>
+ennucon ] ennuca
+<Mr 1:44>
+mwshv ] mwushv
+<Mr 2:4>
+krabbaton ] krabatton
+<Mr 2:9>
+egeirai ] egeire
+sou ton krabbaton ] ton krabatton sou
+<Mr 2:11>
+egeirai ] egeire
+krabbaton ] krabatton
+<Mr 2:12>
+krabbaton ] krabatton
+<Mr 2:14>
+leui ] leuin
+<Mr 2:18>
+dia ti ] diati
+<Mr 2:21>
+kai oudeiv ] oudeiv
+mh ] mhge
+<Mr 3:2>
+parethroun ] pareththroun (sic)
+<Mr 3:3>
+egeirai ] egeire
+<Mr 3:11>
+eyewrei ] eyewroun
+prosepipten ] prosepipton
+ekrazen ] ekrazon
+<Mr 3:16>
+tw simwni onoma ] onoma tw simwni
+<Mr 3:20>
+mhte ] mhde
+<Mr 3:27>
+diarpash ] diarpasei
+<Mr 3:28>
+ta amarthmata toiv uioiv twn anyrwpwn ] toiv uioiv twn anyrwpwn ta amarthmata
+blasfhmiai ] ai blasfhmiai
+an ] ean
+<Mr 3:31>
+oi adelfoi kai h mhthr autou ] h mhthr autou kai oi adelfoi autou
+<Mr 3:32>
+oclov peri auton ] peri auton oclov
+kai ai adelfai sou exw ] exw
+<Mr 4:1>
+hn ] hsan
+<Mr 4:4>
+para ] epi
+hlyen ] hlyon
+<Mr 4:5>
+allo de ] kai allo
+<Mr 4:9>
+elegen ] + autoiv
+<Mr 4:10>
+katamonav ] kata monav
+<Mr 4:11>
+to musthrion ] ta musthria
+<Mr 4:15>
+euyewv ] euyuv
+<Mr 4:16>
+eisin omoiwv ] omoiwv eisin
+euyewv ] euyuv
+<Mr 4:17>
+euyewv ] euyuv
+<Mr 4:21>
+o lucnov ercetai ] ercetai o lucnov
+<Mr 4:22>
+ti krupton ] krupton
+eiv faneron elyh ] elyh eiv faneron
+<Mr 4:26>
+ean ] an
+<Mr 4:30>
+tini ] pwv
+en poia ] en tini
+<Mr 4:32>
+pantwn twn lacanwn meizwn ] meizwn pantwn twn lacanwn
+<Mr 4:33>
+edunanto ] hdunanto
+<Mr 4:34>
+autoiv ] + ton logon
+<Mr 4:36>
+ploiaria ] ploia
+<Mr 4:37>
+auto hdh ] hdh auto
+gemizesyai ] buyizesyai
+<Mr 5:1>
+gadarhnwn ] gergeshnwn
+<Mr 5:2>
+exelyonti autw ] exelyontov autou
+<Mr 5:3>
+edunato ] hdunato
+<Mr 5:4>
+auton iscuen ] iscuen auton
+<Mr 5:5>
+toiv oresin kai en toiv mnhmasin ] toiv mnhmasin kai en toiv oresin
+<Mr 5:6>
+autw ] auton
+<Mr 5:7>
+eipen ] legei
+<Mr 5:9>
+soi onoma ] onoma soi
+<Mr 5:10>
+autouv aposteilh ] aposteilh autouv
+<Mr 5:11>
+prov tw orei agelh coirwn megalh boskomenh ] 
+     agelh coirwn megalh boskomenh prov tw orei
+<Mr 5:14>
+oi de ] kai oi
+anhggeilan ] aphggeilan
+<Mr 5:16>
+dihghsanto de ] kai dihghsanto
+<Mr 5:18>
+embantov ] embainontov
+h met autou ] met autou h
+<Mr 5:19>
+o de ihsouv ] kai
+<Mr 5:22>
+kai idou ] kai
+<Mr 5:26>
+authv ] eauthv
+<Mr 5:28>
+gar ] + en eauth 
+oti ] + ean
+kan twn imatiwn autou aqwmai ] aqwmai kan twn imatiwn autou
+<Mr 5:37>
+oudena autw ] autw oudena
+<Mr 5:38>
+klaiontav ] [kai] klaiontav
+<Mr 5:41>
+egeirai ] egeire
+<Mr 6:1>
+patrida autou ] patrida eautou
+<Mr 6:3>
+uiov ] + thv
+<Mr 6:9>
+endushsye ] endedusyai
+<Mr 6:11>
+osoi an ] osoi ean
+<Mr 6:16>
+hrwdhv ] o hrwdhv
+<Mr 6:27>
+spekoulatora ] spekoulatwra
+<Mr 6:32>
+tw ploiw ] en ploiw
+<Mr 6:33>
+auton polloi ] autouv polloi
+<Mr 6:34>
+eiden o ihsouv ] o ihsouv eiden
+<Mr 6:41>
+mayhtaiv autou ] mayhtaiv
+<Mr 6:48>
+eiden ] idwn
+<Mr 6:51>
+prov autouv eiv to ploion ] eiv to ploion prov autouv
+ekperissou ] ek perissou
+<Mr 6:52>
+hn gar ] all hn
+<Mr 6:53>
+hlyon ] aphlyon
+<Mr 6:55>
+peridramontev ] periedramon
+ekeinhn ] + kai
+krabbatoiv ] krabattoiv
+<Mr 6:56>
+etiyoun ] etiyesan
+<Mr 7:5>
+dia ti ] diati
+oi mayhtai sou ou peripatousin ] ou peripatousin oi mayhtai sou
+alla ] all
+<Mr 7:10>
+mwshv ] mwushv
+<Mr 7:15>
+ekporeuomena ap autou ekeina ] ekporeuomena
+<Mr 7:16>
+OMIT ENTIRE VERSE (ei tiv ecei wta akouein akouetw)
+<Mr 7:18>
+ou noeite ] oupw noeite
+<Mr 7:26>
+hn de h gunh ] h de gunh hn
+surafoinikissa ] surofoinikissa
+<Mr 7:27>
+kalon estin ] estin kalon
+balein toiv kunarioiv ] toiv kunarioiv balein
+<Mr 7:28>
+kai gar ta ] kai ta
+esyiei ] esyiousin
+<Mr 7:30>
+to daimonion exelhluyov kai thn yugatera beblhmenhn epi thv klinhv ]
+     to paidion beblhmenon epi thn klinhn kai to daimonion exelhluyov
+<Mr 7:32>
+moggilalon ] mogilalon
+<Mr 8:1>
+pampollou ] palin pollou
+<Mr 8:3>
+makroyen ] apo makroyen
+hkousin ] hkasin
+<Mr 8:6>
+paraywsin ] paratiywsin
+<Mr 8:7>
+kai euloghsav ] kai auta euloghsav
+parayeinai ] paratiyenai
+<Mr 8:9>
+de oi fagontev ] de
+<Mr 8:10>
+euyewv embav ] embav euyuv
+<Mr 8:13>
+embav palin eiv ploion aphlyen eiv to peran ] eiv to ploion aphlyen palin
+<Mr 8:19>
+posouv ] kai posouv
+plhreiv klasmatwn ] klasmatwn plhreiv
+<Mr 8:21>
+pwv ou ] oupw
+<Mr 8:22>
+bhysaidan ] bhysaida
+<Mr 8:24>
+oti wv ] wv
+orw peripatountav ] peripatountav
+<Mr 9:2>
+iwannhn ] [ton] iwannhn
+<Mr 9:3>
+egenonto ] egeneto
+dunatai ] + outwv
+<Mr 9:4>
+mwsh ] mwusei
+<Mr 9:5>
+mwsh ] mwusei
+<Mr 9:6>
+lalhsei ] lalhsh
+<Mr 9:7>
+nefelhv ] + legousa
+<Mr 9:15>
+idwn ] idontev
+exeyambhyh ] exeyambhyhsan
+<Mr 9:16>
+autouv ] eautouv
+<Mr 9:22>
+eiv to pur ] eiv pur
+hmin ] umin (sic!)
+<Mr 9:38>
+de autw ] autw
+iwannhv ] o iwannhv
+tina ] + en
+<Mr 9:41>
+onomati ] tw onomati
+<Mr 9:42>
+ean ] an
+mikrwn ] + toutwn
+<Mr 9:45>
+estin soi ] soi estin
+<Mr 9:47>
+duo ] touv duo
+blhyhnai ] apelyein
+<Mr 10:1>
+kakeiyen ] kai ekeiyen
+<Mr 10:2>
+farisaioi ] oi farisaioi
+ephrwthsan ] ephrwtwn
+<Mr 10:3>
+mwshv ] mwushv
+<Mr 10:4>
+mwshv epetreqen ] epetreqen mwushv
+<Mr 10:10>
+en th oikia ] eiv thn oikian
+mayhtai autou ] mayhtai
+tou autou ephrwthsan ] toutou ephrwtwn
+<Mr 10:11>
+ean ] an
+<Mr 10:12>
+apolush ] apolusasa
+andra authv kai ] andra
+<Mr 10:13>
+aqhtai autwn ] autwn aqhtai
+<Mr 10:14>
+mh ] kai mh
+<Mr 10:16>
+tiyeiv tav ceirav ep auta eulogei auta ] kathulogei tiyeiv tav ceirav ep auta
+<Mr 10:21>
+soi ] se
+usterei ] + ei yeleiv teleiov einai
+stauron ] + sou
+<Mr 10:25>
+thv trumaliav thv ] trumaliav
+<Mr 10:27>
+embleqav de ] embleqav
+<Mr 10:29>
+apokriyeiv ] + de
+<Mr 10:30>
+adelfav kai mhterav ] adelfav kai patera kai mhtera
+<Mr 10:35>
+oi uioi ] uioi
+<Mr 10:46>
+uiov ] o uiov
+o tuflov ] tuflov
+<Mr 10:47>
+o uiov ] uie
+<Mr 10:49>
+auton fwnhyhnai ] fwnhsate auton
+egeirai ] egeire
+<Mr 10:51>
+yeleiv poihsw soi ] soi yeleiv poihsw
+<Mr 10:52>
+o de ] kai o
+<Mr 11:3>
+apostellei ] + palin
+<Mr 11:4>
+euron ] + ton
+<Mr 11:13>
+sukhn ] + apo
+eurhsei ti ] ti eurhsei
+<Mr 11:14>
+o ihsouv eipen ] eipen
+<Mr 11:15>
+ercontai ] + palin
+agorazontav ] touv agorazontav
+<Mr 11:17>
+epoihsate auton ] auton epoihsate
+<Mr 11:18>
+grammateiv ] + kai oi farisaioi
+<Mr 11:20>
+prwi paraporeuomenoi ] paraporeuomenoi prwi
+<Mr 11:23>
+pisteush ] pisteusei
+<Mr 11:24>
+aithsye ] aiteisye
+<Mr 11:26>
+o en toiv ouranoiv afhsei ] afhsei
+<Mr 11:28>
+kai tiv ] h tiv
+thn exousian tauthn edwken ] edwken thn exousian tauthn
+<Mr 11:29>
+kai egw ] kagw
+<Mr 11:31>
+dia ti ] diati
+<Mr 11:32>
+all ] alla
+oti ontwv ] oti
+<Mr 12:3>
+oi de ] kai
+<Mr 12:5>
+touv men ] ouv men
+touv de ] ouv de
+apoktenontev ] apoktennontev
+<Mr 12:6>
+prov autouv escaton ] escaton prov autouv
+<Mr 12:7>
+gewrgoi ] + yeasamenoi auton ercomenon
+eipon prov eautouv ] prov eautouv eipon
+<Mr 12:8>
+auton apekteinan ] apekteinan auton
+exebalon ] + auton
+<Mr 12:9>
+gewrgouv ] + toutouv
+<Mr 12:14>
+didaskeiv ] + eipon oun hmin 
+knhson kaisari dounai ] dounai knhson kaisari
+<Mr 12:16>
+eipon autw ] eipon
+<Mr 12:18>
+ephrwthsan ] ephrwtwn
+<Mr 12:19>
+mwshv ] mwushv
+<Mr 12:20>
+epta ] + oun
+<Mr 12:21>
+afhken ] [ouk] afhken
+<Mr 12:23>
+th ] + oun
+<Mr 12:25>
+gamiskontai ] gamizontai
+<Mr 12:26>
+mwsewv ] mwusewv
+wv ] pwv
+<Mr 12:27>
+alla yeov ] alla
+<Mr 12:28>
+eidwv ] idwn
+<Mr 12:29>
+twn entolwn ] entolh
+<Mr 12:31>
+seauton ] eauton
+<Mr 12:34>
+idwn auton ] idwn
+<Mr 12:35>
+estin dauid ] dauid estin
+<Mr 12:43>
+legei ] eipen
+auth h ptwch ] h ptwch auth
+beblhken ] ebalen
+<Mr 13:2>
+afeyh ] + wde
+liyw ] liyon
+<Mr 13:5>
+autoiv hrxato legein ] hrxato legein autoiv
+<Mr 13:9>
+eiv sunagwgav ] en taiv sunagwgaiv autwn
+<Mr 13:11>
+este umeiv ] umeiv este
+<Mr 13:20>
+kuriov ekolobwsen ] ekolobwsen kuriov
+<Mr 13:21>
+tote ] kai tote
+h idou ] idou
+<Mr 13:23>
+panta ] apanta
+<Mr 13:25>
+tou ouranou esontai ] esontai ek tou ouranou
+ekpiptontev ] piptontev
+<Mr 13:27>
+ghv ] thv ghv
+ouranou ] tou ouranou
+<Mr 13:28>
+hdh o kladov ] o kladov hdh
+apalov genhtai ] genhtai apalov
+<Mr 13:29>
+tauta idhte ] idhte tauta
+<Mr 13:31>
+pareleusetai ] pareleusontai
+logoi mou ] emoi logoi
+parelywsin ] pareleusontai
+<Mr 13:32>
+wrav ] thv wrav
+oi en ] en
+<Mr 14:4>
+kai legontev ] legontev
+<Mr 14:5>
+touto ] + to muron
+<Mr 14:10>
+o ioudav ] ioudav
+<Mr 14:11>
+argurion ] arguria
+<Mr 14:14>
+kataluma ] + mou
+<Mr 14:15>
+anwgeon ] anwgaion
+<Mr 14:27>
+diaskorpisyhsetai ] diaskorpisyhsontai
+<Mr 14:31>
+o de ] + petrov
+ekperissou ] ek perissou
+aparnhswmai ] aparnhsomai
+<Mr 14:34>
+legei ] legein
+<Mr 14:35>
+proselywn ] proelywn
+epesen ] + epi proswpon
+<Mr 14:36>
+alla ] all ei
+<Mr 14:37>
+iscusav ] iscusate
+<Mr 14:40>
+bebarhmenoi ] katabarunomenoi
+autw apokriywsin ] apokriywsin autw
+<Mr 14:43>
+ioudav ] + o iskariwthv 
+eiv wn ] eiv
+xulwn ] + apestalmenoi
+twn grammatewn ] grammatewn
+<Mr 14:45>
+autw legei autw ] autw legei caire
+rabbi rabbi ] rabbi
+<Mr 14:49>
+hmhn prov umav ] prov umav hmhn
+<Mr 14:50>
+pantev efugon ] efugon pantev
+<Mr 14:60>
+eiv ] + to
+ephrwthsen ] ephrwta
+<Mr 14:62>
+meta ] epi
+<Mr 14:64>
+hkousate ] + pantwv
+<Mr 14:65>
+profhteuson ] + hmin tiv estin o paisav se
+eballon ] ebalon
+<Mr 14:66>
+en th aulh katw ] katw en th aulh
+<Mr 14:67>
+tou nazarhnou ihsou ] tou ihsou tou nazarhnou
+<Mr 15:3>
+polla ] + autov de ouden apekrinato
+<Mr 15:4>
+ephrwthsen ] ephrwta
+<Mr 15:12>
+legete ] + ton
+<Mr 15:14>
+kakon epoihsen ] epoihsen kakon
+<Mr 15:31>
+omoiwv kai ] omoiwv de kai
+<Mr 15:35>
+idou ] ide
+<Mr 15:43>
+hlyen ] elywn
+<Mr 16:1>
+maria iakwbou ] maria h [tou] iakwbou
+<Mr 16:18>
+blaqh ] blaqei
+
+LUKE (289)
+
+<Lu 1:34>
+estai ] + moi
+<Lu 1:59>
+zacarian ] zacacarian (sic)
+<Lu 2:21>
+hmerai ] ai hmerai
+peritemein auton ] peritemein to paidion
+<Lu 2:22>
+mwsewv ] mwusewv
+<Lu 2:25>
+ierousalhm ] ierosolumoiv
+<Lk 2:28>
+auto ] auton
+<Lu 3:2>
+epi arcierewv ] ep arcierewv
+<Lu 3:14>
+diaseishte mhde sukofanthshte ] sukofanthshte mhde diaseishte
+<Lu 3:24>
+matyat ] matyan
+ianna ] iwanna
+<Lu 3:25>
+esli ] eslim
+<Lu 3:26>
+semei ] semeu
+iwshf ] iwshc
+iouda ] iwda
+<Lu 3:27>
+iwanan ] iwannan
+<Lu 3:30>
+iwnan ] iwna
+<Lu 3:33>
+aram ] + tou iwram
+<Lu 3:35>
+faleg ] falek
+<Lu 4:1>
+pneumatov agiou plhrhv ] plhrhv pneumatov agiou
+<Lu 4:4>
+ihsouv ] o ihsouv
+rhmati ] + ekporeuomenw dia stomatov
+<Lu 4:7>
+emou ] mou
+<Lu 4:8>
+gegraptai ] + gar
+proskunhseiv kurion ton yeon sou ] kurion ton yeon sou proskunhseiv
+<Lu 4:9>
+ierousalhm ] ierosoluma
+<Lu 4:11>
+kai ] + oti
+<Lu 4:17>
+epedoqh ] epedodh (sic)
+<Lu 4:26>
+sarepta ] sarapta
+sidwnov ] sidwniav
+<Lu 4:27>
+elissaiou ] elisaiou
+<Lu 4:35>
+eiv ] + [to]
+<Lu 4:40>
+epiyeiv ] epitiyeiv
+<Lu 4:41>
+krazonta ] kraugazonta
+<Lu 4:44>
+en taiv sunagwgaiv ] eiv tav sunagwgav
+<Lu 5:14>
+mwshv ] mwushv
+<Lu 5:23>
+egeirai ] egeire
+<Lu 5:24>
+egeirai ] egeire
+<Lu 5:30>
+dia ti ] diati
+<Lu 5:33>
+dia ti ] diati
+<Lu 5:36>
+scizei ] scisei
+to apo ] to epiblhma to apo
+<Lu 5:37>
+o neov oinov ] o oinov o neov
+<Lu 6:8>
+egeirai ] egeire
+<Lu 6:10>
+ugihv wv ] wv
+<Lu 6:18>
+upo ] apo
+<Lu 6:23>
+tauta ] ta auta
+<Lu 6:26>
+eipwsin ] + pantev
+tauta ] ta auta
+<Lu 6:27>
+all ] alla
+<Lu 6:48>
+ov ] + kai
+<Lu 6:49>
+euyewv ] euyuv
+<Lu 7:2>
+emellen ] hmellen
+<Lu 7:9>
+oute ] oude
+<Lu 7:12>
+kai auth ] + hn
+ikanov ] + hn
+<Lu 7:19>
+allon ] eteron
+<Lu 7:20>
+allon ] eteron
+<Lu 7:22>
+oti tufloi ] tufloi
+cwloi ] kai cwloi
+<Lu 7:24>
+aggelwn ] mayhtwn
+toiv ocloiv ] prov touv oclouv
+<Lu 7:37>
+amartwlov ] + kai
+<Lu 7:38>
+para touv podav autou opisw ] opisw para touv podav autou
+<Lu 7:45>
+eishlyon ] eishlyen
+<Lu 8:2>
+apo ] + [noswn kai mastigwn kai]
+<Lu 8:3>
+autoiv ] autw
+<Lu 8:12>
+akouontev ] akousantev
+<Lu 8:26>
+katepleusan ] katepleusen
+antiperan ] antipera
+<Lu 8:36>
+autoiv kai ] autoiv
+<Lu 8:45>
+met autou ] sun autw
+<Lu 9:1>
+dwdeka ] + mayhtav autou
+<Lu 9:7>
+ek nekrwn ] ek [twn] nekrwn
+<Lu 9:8>
+eiv ] tiv
+<Lu 9:9>
+hrwdhv ] o hrwdhv
+<Lu 9:10>
+bhysaidan ] bhysaida
+<Lu 9:11>
+iato ] iasato
+<Lu 9:12>
+apelyontev ] poreuyentev
+<Lu 9:13>
+agoraswmen ] agorasomen
+<Lu 9:16>
+paratiyenai ] parayeinai
+<Lu 9:21>
+eipein ] legein
+<Lu 9:22>
+anasthnai ] egeryhnai
+<Lu 9:23>
+elyein ] ercesyai
+autou ] + kay hmeran
+<Lu 9:24>
+ean yelh ] an yelh
+<Lu 9:26>
+gar an ] gar ean
+<Lu 9:27>
+estwtwn ] esthkotwn
+<Lu 9:28>
+petron ] ton petron
+<Lu 9:30>
+mwshv ] mwushv
+<Lu 9:33>
+petrov ] o petrov
+mwsh ] mwusei
+<Lu 9:34>
+ekeinouv eiselyein ] eiselyein ekeinouv
+<Lu 9:38>
+epibleqai ] epibleqon
+estin moi ] moi estin
+<Lu 9:48>
+estai ] estin
+<Lu 9:50>
+kwluete ] + ou gar estin kay umwn
+kay hmwn uper hmwn ] kay umwn uper umwn
+<Lu 9:51>
+to proswpon autou esthrixen ] esthrixen to proswpon autou
+<Lu 9:54>
+tou ouranou ] ouranou
+<Lu 9:55>
+oiou ] [...poiou...]
+<Lu 9:56>
+o gar uiov ] [o uiov...]
+<Lu 9:57>
+an ] ean
+<Lu 10:1>
+emellen ] hmellen
+<Lu 10:4>
+balantion ] ballantion
+<Lu 10:6>
+anakamqei ] epanakamqei
+<Lu 10:11>
+ek ] apo
+polewv umwn ] + eiv touv podav hmwn
+<Lu 10:12>
+legw ] + de
+<Lu 10:13>
+kayhmenai ] kayhmenoi
+<Lu 10:22>
+ginwskei ] epiginwskei
+<Lu 10:27>
+seauton ] eauton
+<Lu 10:40>
+kateleipen ] katelipen
+<Lu 11:4>
+panti ] + tw
+<Lu 11:5>
+eiph ] erei
+<Lu 11:6>
+filov ] + mou
+<Lu 11:8>
+oson ] oswn
+<Lu 11:10>
+anoighsetai ] anoicyhsetai
+<Lu 11:11>
+umwn ] ex umwn
+<Lu 11:13>
+ponhroi uparcontev ] uparcontev ponhroi
+agion ] agayon (sic! - "a good spirit" instead of "the Holy Spirit"?)
+<Lu 11:14>
+eyaumasan ] eyaumazon
+<Lu 11:15>
+arconti ] tw arconti
+<Lu 11:18>
+ekballein me ] me ekballein
+<Lu 11:19>
+ekballousin ] ekbalousin
+kritai umwn autoi ] autoi kritai umwn
+<Lu 11:26>
+elyonta ] eiselyonta
+<Lu 11:29>
+genea auth ] + genea
+epizhtei ] zhtei
+<Lu 11:30>
+tauth ] + shmeion
+<Lu 11:31>
+solomwnov ] solomwntov (2x)
+<Lu 11:37>
+lalhsai ] + auton tauta
+<Lu 11:41>
+panta ] apanta
+estin ] estai
+<Lu 11:42>
+tauta ] + de
+<Lu 11:53>
+tauta prov autouv ] prov autouv tauta
+<Lu 12:1>
+wste ] wv
+<Lu 12:4>
+apoktenontwn ] apoktennontwn
+<Lu 12:5>
+exousian econta ] econta exousian
+<Lu 12:13>
+met emou thn klhronomian ] thn klhronomian met emou
+<Lu 12:15>
+apo thv ] apo pashv
+zwh autw ] zwh autou
+<Lu 12:22>
+umin legw ] legw umin
+swmati ] + umwn
+<Lu 12:23>
+h quch ] ouci h quch
+<Lu 12:28>
+en tw agrw ] tou agrou
+<Lu 12:29>
+h ti ] kai ti
+<Lu 12:33>
+balantia ] ballantia
+<Lu 12:36>
+analush ] analusei
+<Lu 12:43>
+poiounta outwv ] outwv poiounta
+<Lu 12:49>
+eiv ] epi
+<Lu 12:53>
+diamerisyhsetai ] diamerisyhsontai
+<Lu 12:56>
+thv ghv kai tou ouranou ] tou ouranou kai thv ghv
+<Lu 12:58>
+balh ] balei
+<Lu 12:59>
+ton escaton ] to escaton
+<Lu 13:4>
+pantav ] + [touv]
+<Lu 13:5>
+metanohte ] metanohshte
+<Lu 13:7>
+ina ti ] inati
+<Lu 13:8>
+legei ] eipen
+<Lu 13:15>
+upokritai ] upokrita
+<Lu 13:21>
+enekruqen ] ekruqen
+<Lu 13:29>
+borra ] apo borra
+<Lu 13:34>
+apoktenousa ] apoktennousa
+<Lu 13:35>
+hxei ] hxh
+<Lu 14:12>
+genhtai ] genhsetai
+<Lu 14:24>
+deipnou polloi gar eisin klhtoi oligoi de eklektoi ] deipnou
+<Lu 14:26>
+patera autou ] patera eautou
+<Lu 14:27>
+stauron autou ] stauron eautou
+<Lu 14:28>
+o yelwn ] yelwn
+ta eiv ] ta prov
+<Lu 14:29>
+iscuontov ] iscusantov
+empaizein autw ] autw empaizein
+<Lu 14:31>
+kayisav prwton ] prwton kayisav
+<Lu 14:33>
+mou einai ] einai mou
+<Lu 14:34>
+de ] + kai
+<Lu 15:4>
+ewv ] + ou
+<Lu 15:5>
+eautou ] autou
+<Lu 15:9>
+sugkaleitai ] sugkalei
+<Lu 15:19>
+kai ouketi ] ouketi
+<Lu 16:2>
+dunhsh ] dunh
+<Lu 16:4>
+thv ] ek thv
+autwn ] eautwn
+<Lu 16:5>
+ofeileiv ] + su
+<Lu 16:29>
+mwsea ] mwusea
+<Lu 16:31>
+mwsewv ] mwusewv
+<Lu 17:1>
+eipen de ] elegen de kai
+mayhtav ] + autou
+<Lu 17:2>
+mulov onikov ] liyov mulikov
+<Lu 17:4>
+epistreqh ] + [prov se]
+<Lu 17:10>
+ofeilomen ] wfeilomen
+<Lu 17:23>
+h idou ] idou
+<Lu 17:24>
+h astraptousa ] astraptousa
+estai ] + kai
+<Lu 17:30>
+tauta ] ta auta
+<Lu 17:34>
+esontai duo ] duo esontai
+<Lu 17:35>
+afeyhsetai ] + 36 duo en tw agrw, eiv paralhfyhsetai kai o eterov afeyhsetai:
+               (Note TR/Elz/Scr read duo ESONTAI en tw agrw, O eiv...).
+<Lu 17:37>
+sunacyhsontai ] episunacyhsontai [kai]
+<Lu 18:1>
+proseucesyai ] + autouv
+<Lu 18:9>
+de ] + kai
+<Lu 18:15>
+idontev de ] kai idontev
+<Lu 18:27>
+estin para tw yew ] para tw yew estin
+<Lu 18:28>
+petrov ] o petrov
+<Lu 18:31>
+telesyhsetai ] teleiwyhsetai
+<Lu 18:36>
+touto ] tauta
+<Lu 19:4>
+sukomwraian ] sukomorean
+emellen ] hmellen
+<Lu 19:13>
+ewv ] en w
+<Lu 19:15>
+gnw ] epignw
+<Lu 19:21>
+espeirav ] + kai sunageiv oyen ou dieskorpisav
+<Lu 19:22>
+legei de ] legei
+egw anyrwpov austhrov eimi ] anyrwpov austhrov eimi egw
+espeira ] + kai sunagwn oyen ou dieskorpisa
+<Lu 19:23>
+dia ti ] diati
+epi ] + thn
+<Lu 19:27>
+katasfaxate ] + autouv
+<Lu 19:31>
+dia ti ] diati
+<Lu 19:32>
+autoiv ] + estwta ton pwlon
+<Lu 19:34>
+eipon ] + oti
+<Lu 19:37>
+hrxanto ] hrxato
+<Lu 19:46>
+gegraptai ] + oti
+<Lu 19:48>
+poihswsin ] poihsousin
+<Lu 20:5>
+dia ti ] diati
+ouk ] oun ouk
+<Lu 20:9>
+anyrwpov ] + tiv
+<Lu 20:10>
+kairw ] tw kairw
+dwsin ] dwsousin
+<Lu 20:11>
+proseyeto ] + autoiv
+<Lu 20:19>
+efobhyhsan ] + ton laon
+thn parabolhn tauthn eipen ] tav parabolav elegen
+<Lu 20:24>
+epideixate ] deixate
+<Lu 20:27>
+antilegontev ] legontev
+anastasin mh einai ] mh einai anastasin
+<Lu 20:28>
+mwshv ] mwushv
+<Lu 20:32>
+apeyanen kai h gunh ] kai h gunh apeyanen
+<Lu 20:33>
+oun anastasei ] anastasei oun
+<Lu 20:34>
+ekgamiskontai ] ekgamizontai
+<Lu 20:35>
+ekgamizontai ] gamizontai
+<Lu 20:37>
+mwshv ] mwushv
+<Lu 20:42>
+biblw ] + twn
+<Lu 20:44>
+kurion auton ] auton kurion
+<Lu 21:2>
+tina kai ] tina
+<Lu 21:22>
+plhsyhnai ] plhrwyhnai
+<Lu 21:23>
+gar ] + tote
+en tw ] tw
+<Lu 21:38>
+ierw ] orei (sic!)
+<Lu 22:3>
+satanav ] o satanav
+<Lu 22:4>
+arciereusin ] + kai grammateusin
+<Lu 22:5>
+argurion ] arguria
+<Lu 22:9>
+etoimasomen ] etoimaswmen
+<Lu 22:12>
+anwgeon ] anwgaion
+<Lu 22:17>
+pothrion ] [to] pothrion
+<Lu 22:26>
+genesyw ] ginesyw
+<Lu 22:30>
+trapezhv mou ] + en th basileia mou
+<Lu 22:31>
+siniasai ] suniasai (sic)
+<Lu 22:34>
+ou mh fwnhsh ] ou fwnhsei
+<Lu 22:35>
+balantiou ] ballantiou
+usterhsate ] usterhyhte
+<Lu 22:36>
+balantion ] ballantion
+<Lu 22:42>
+to pothrion touto ] touto to pothrion
+genesyw ] ginesyw
+<Lu 22:47>
+prohrceto ] prohgen
+filhsai auton ] + touto gar shmeion dedwkei autoiv on an filhsw autov estin
+<Lu 22:53>
+umwn estin ] estin umwn
+<Lu 22:55>
+pur ] puran
+<Lu 22:57>
+hrnhsato auton ] hrnhsato
+<Lu 22:66>
+autwn ] eautwn
+<Lu 23:4>
+oclouv ] + oti
+<Lu 23:8>
+yelwn ex ikanou ] ex ikanou yelwn
+akouein ] + auton
+<Lu 23:10>
+oi arciereiv kai oi grammateiv ] oi grammateiv kai oi arciereiv
+<Lu 23:12>
+pilatov kai o hrwdhv ] hrwdhv kai o pilatov
+<Lu 23:19>
+eiv ] + thn
+<Lu 23:22>
+aition ] axion
+<Lu 23:25>
+ton dia ] autoiv ton barabban ton dia
+<Lu 23:26>
+opisyen ] opisw
+<Lu 23:34>
+ebalon ] eballon
+<Lu 23:45>
+kai eskotisyh o hliov ] tou hliou ekleipontov
+<Lu 23:46>
+parayhsomai ] paratiyemai
+<Lu 23:49>
+makroyen ] apo makroyen
+<Lu 23:50>
+uparcwn ] + kai
+<Lu 23:51>
+ov kai ] ov
+<Lu 23:53>
+auto sindoni ] sindoni
+oudepw oudeiv ] oudeiv oudepw
+<Lu 23:55>
+gunaikev ] ai gunaikev
+<Lu 24:18>
+ierousalhm ] en ierousalhm
+<Lu 24:27>
+mwsewv ] mwusewv
+<Lu 24:38>
+dia ti ] diati
+<Lu 24:44>
+mwsewv ] mwusewv
+
+JOHN (120) [27 occur in the Pericope Adulterae]
+
+<Joh 1:17>
+mwsewv ] mwusewv
+<Joh 1:29>
+blepei ] + [o iwannhv]
+<Joh 1:32>
+wsei ] wv
+<Joh 1:39>
+hlyon ] + [oun]
+<Joh 1:41>
+mesian ] messian
+<Joh 1:43>
+hyelhsen ] + o ihsouv
+autw o ihsouv ] autw
+<Joh 1:45>
+mwshv ] mwushv
+<Joh 2:4>
+auth ] autw (sic 1904 edition; corrected in 1912 edition)
+<Joh 3:3>
+o ihsouv ] ihsouv
+<Joh 3:14>
+mwshv ] mwushv
+<Joh 3:23>
+salhm ] saleim
+<Joh 3:28>
+umeiv ] + moi
+<Joh 4:15>
+ercomai ] ercwmai
+<Joh 4:20>
+hmwn ] umwn (sic)
+<Joh 4:25>
+mesiav ] messiav
+<Joh 4:30>
+exhlyon ] + [oun]
+<Joh 4:47>
+emellen ] hmellen
+<Joh 5:4>
+etarassen ] etarasseto
+<Joh 5:5>
+triakonta ] + kai
+asyeneia ] + autou
+<Joh 5:8>
+egeirai ] egeire
+krabbaton ] krabatton
+<Joh 5:9>
+krabbaton ] krabatton
+<Joh 5:10>
+krabbaton ] krabatton
+<Joh 5:11>
+krabbaton ] krabatton
+<Joh 5:12>
+krabbaton ] krabatton
+<Joh 5:14>
+ti soi ] soi ti
+<Joh 5:45>
+mwshv ] mwushv
+<Joh 5:46>
+mwsh ] mwusei
+<Joh 6:5>
+agorasomen ] agoraswmen
+<Joh 6:9>
+o ] ov
+<Joh 6:15>
+anecwrhsen ] + palin
+<Joh 6:32>
+mwshv ] mwushv
+<Joh 6:39>
+auto ] + en
+<Joh 6:44>
+en th ] th
+<Joh 6:45>
+pav oun ] pav
+<Joh 6:54>
+th ] en th
+<Joh 6:66>
+aphlyon ] + [ek]
+<Joh 7:19>
+mwshv ] mwushv
+<Joh 7:22>
+mwshv ] mwushv
+mwsewv ] mwusewv
+<Joh 7:23>
+mwsewv ] mwusewv
+<Joh 7:45>
+dia ti ] diati
+
+<Joh 7:53>
+kai eporeuyh ] <<kai aphlyen
+<Joh 8:2>
+hrceto ] + prov auton
+<Joh 8:3>
+prov auton gunaika ] gunaika
+en moiceia ] epi moiceia
+katalhfyeisan ] kateilhmmenhn
+<Joh 8:4>
+autw peirazontev ] autw
+katelhfyh ] kateilhptai
+autoforw ] autofwrw
+<Joh 8:5>
+en de ] kai en
+mwshv hmin ] hmwn mwushv
+liyoboleisyai ] liyazein
+<Joh 8:6>
+elegon ] eipon
+peirazontev ] ekpeirazontev
+ecwsin ] scwsin
+kathgorein ] kathgorian kat
+ghn mh prospoioumenov ] ghn
+<Joh 8:7>
+anakuqav ] anekuqen kai
+prov autouv ] autoiv
+prwton ] prwtov
+ep authn ton liyon baletw ] baletw liyon ep authn
+<Joh 8:9>
+akousantev kai upo thv suneidhsewv elegcomenoi ] akousantev
+monov o ihsouv ] o ihsouv
+<Joh 8:10>
+kai mhdena yeasamenov plhn thv gunaikov eipen ] eipen
+auth ] + gunai
+eisin ekeinoi oi kathgoroi sou ] eisin
+<Joh 8:11>
+krinw ] katakrinw
+mhketi ] apo tou nun mhketi
+amartane ] amartane>>
+
+<Joh 8:14>
+ercomai kai pou ] ercomai h pou
+<Joh 8:43>
+dia ti ] diati
+<Joh 8:46>
+dia ti ] diati
+<Joh 8:54>
+hmwn ] umwn
+<Joh 9:28>
+mwsewv ] mwusewv
+<Joh 9:29>
+mwsh ] mwusei
+<Joh 10:8>
+hlyon ] + pro emou
+<Joh 10:22>
+en ] + toiv
+<Joh 10:23>
+stoa ] + tou
+<Joh 10:39>
+auton piasai ] piasai auton
+<Joh 11:15>
+alla ] all
+<Joh 11:20>
+ihsouv ] o ihsouv
+<Joh 11:21>
+marya ] [h] marya
+<Joh 11:27>
+su ei o ] su o (sic)
+<Joh 11:51>
+ihsouv ] o ihsouv
+<Joh 12:5>
+dia ti ] diati
+<Joh 12:16>
+ihsouv ] o ihsouv
+<Joh 12:18>
+hkousen ] hkousan
+<Joh 12:30>
+ihsouv ] o ihsouv
+<Joh 12:33>
+emellen ] hmellen
+<Joh 12:40>
+iaswmai ] iasomai
+<Joh 13:15>
+edwka ] dedwka
+<Joh 13:23>
+eiv ] + ek
+<Joh 13:25>
+ekeinov outwv ] ekeinov
+<Joh 13:31>
+ote ] + [oun]
+<Joh 13:36>
+opou ] + egw
+<Joh 13:37>
+petrov ] o petrov
+dia ti ] diati
+<Joh 13:38>
+fwnhsh ] fwnhsei
+<Joh 14:3>
+poreuyw ] + kai
+<Joh 14:14>
+aithshte me ] aithshte
+<Joh 14:20>
+kai egw ] kagw
+<Joh 15:7>
+aithsesye ] aithsasye
+<Joh 16:15>
+lambanei ] lhqetai
+<Joh 16:16>
+oti ] + egw
+<Joh 16:33>
+ecete ] exete
+<Joh 17:24>
+hn edwkav ] hn dedwkav
+<Joh 18:2>
+sunhcyh ] + kai
+<Joh 18:11>
+macairan sou ] macairan
+<Joh 19:7>
+uion yeou ] yeou uion
+<Joh 19:17>
+eiv topon ] eiv ton
+<Joh 19:20>
+o topov thv polewv ] thv polewv o topov
+<Joh 19:23>
+arafov ] arrafov
+<Joh 19:26>
+idou ] ide
+<Joh 19:28>
+idwn ] eidwv
+<Joh 19:35>
+estin autou ] autou estin
+ina ] + [kai]
+<Joh 19:36>
+ap autou ] autou
+<Joh 19:38>
+meta ] + de
+<Joh 20:11>
+prov to mnhmeion ] prov tw mnhmeiw
+
+ACTS (205) [taking 24:6-8 as one variant]
+
+<Ac 1:19>
+tout estin ] toutestin
+<Ac 1:23>
+barsaban ] barsabban
+<Ac 3:6>
+egeirai ] egeire
+<Ac 3:21>
+twn agiwn ] agiwn
+<Ac 3:22>
+mwshv ] mwushv
+yeov hmwn ] yeov umwn
+<Ac 4:5>
+presbuterouv ] touv presbuterouv
+<Ac 4:7>
+en mesw ] en [tw] mesw
+<Ac 4:12>
+oute ] oude
+eteron ] + upo ton ouranon
+<Ac 4:17>
+apeilhsomeya ] apeilhswmeya
+<Ac 4:24>
+o yeov o ] o
+<Ac 4:32>
+autwn ] autw
+<Ac 5:3>
+dia ti ] diati
+se apo ] apo
+<Ac 5:15>
+krabbatwn ] krabattwn
+<Ac 5:33>
+akouontev ] akousantev
+<Ac 5:36>
+proseklhyh ] prosekliyh
+<Ac 5:38>
+boulh ] + auth
+<Ac 5:39>
+mhpote ] mh pote
+<Ac 5:41>
+tou ihsou ] autou
+<Ac 6:3>
+katasthswmen ] katasthsomen
+<Ac 6:5>
+plhrhv ] plhrh
+<Ac 6:7>
+ierewn ] ioudaiwn (1912 edition; 1904 edition has ierewn)
+<Ac 6:11>
+mwshn ] mwushn
+<Ac 6:14>
+mwshv ] mwushv
+<Ac 7:14>
+suggeneian ] + autou
+<Ac 7:16>
+o wnhsato ] w wnhsato
+<Ac 7:17>
+hv ] hn
+<Ac 7:20>
+mwshv ] mwushv
+patrov ] + autou
+<Ac 7:21>
+auton aneileto ] + auton
+<Ac 7:22>
+mwshv ] mwushv
+ergoiv ] [en] ergoiv
+<Ac 7:23>
+anebh epi ] anebh eiv
+<Ac 7:24>
+epoihsen ] epoihsato
+<Ac 7:27>
+hmav ] hmwn
+<Ac 7:29>
+mwshv ] mwushv
+<Ac 7:31>
+mwshv ] mwushv
+<Ac 7:32>
+mwshv ] mwushv
+<Ac 7:35>
+mwshn ] mwushn
+<Ac 7:37>
+mwshv ] mwushv
+yeov hmwn ] yeov umwn
+eme ] + [autou akousesye]
+<Ac 7:38>
+logon ] logia
+<Ac 7:40>
+mwshv ] mwushv
+<Ac 7:44>
+mwsh ] mwush
+<Ac 7:56>
+estwta tou yeou ] tou yeou estwta
+<Ac 7:58>
+imatia ] + [autwn]
+<Ac 8:2>
+epoihsanto ] epoihsan
+<Ac 8:6>
+te ] de
+<Ac 8:10>
+proseicon ] + pantev
+<Ac 8:16>
+cristou ] kuriou
+<Ac 8:18>
+yeasamenov ] idwn
+<Ac 8:24>
+kurion ] yeon
+<Ac 8:36>
+baptisyhnai ] + [37 eipen de o filippov: ei pisteueiv ex olhv thv
+                kardiav, exestin. apokriyeiv de eipen: pisteuw ton
+                uion tou yeou einai ton ihsoun criston.] (= TR/St)
+<Ac 9:17>
+me ] + ihsouv
+<Ac 9:19>
+twn ] + ontwn
+<Ac 9:20>
+criston ] ihsoun
+<Ac 9:26>
+en ] eiv
+<Ac 9:28>
+eisporeuomenov ] + kai ekporeuomenov
+eiv ] en
+<Ac 9:33>
+krabbatw ] krabattw
+<Ac 9:35>
+assarwna ] sarwna
+<Ac 9:36>
+tabhya ] tabiya
+<Ac 9:38>
+apesteilan ] + [duo andrav]
+<Ac 9:40>
+tabhya ] tabiya
+<Ac 10:1>
+hn en ] en
+<Ac 10:19>
+andrev ] + [treiv]
+<Ac 10:23>
+o petrov ] anastav
+iopphv ] [thv] iopphv
+<Ac 10:34>
+stoma ] + [autou]
+<Ac 11:26>
+hgagen auton ] auton hgagen [auton]
+th ekklhsia ] [en] th ekklhsia
+<Ac 11:29>
+euporeito ] huporeito
+<Ac 12:13>
+tou petrou ] autou
+<Ac 12:17>
+auton exhgagen ] exhgagen auton
+<Ac 12:20>
+o hrwdhv ] hrwdhv
+de parhsan ] te parhsan
+<Ac 12:22>
+fwnh yeou ] yeou fwnh
+<Ac 12:23>
+doxan ] thn doxan
+<Ac 12:25>
+eiv ] ex
+<Ac 13:1>
+kaloumenov ] epikaloumenov
+<Ac 13:3>
+tav ceirav autoiv ] autoiv tav ceirav
+<Ac 13:4>
+de ] te
+<Ac 13:9>
+eiv ] prov
+<Ac 13:11>
+epepesen ] epesen
+<Ac 13:17>
+toutou ] + [israhl]
+<Ac 13:24>
+tw israhl ] panti tw law israhl
+<Ac 13:41>
+o ou mh ] [ergon] w ou mh
+<Ac 13:42>
+de ] + autwn
+rhmata ] + tauta
+<Ac 13:43>
+proslalountev ] + autoiv
+epimenein ] prosmenein
+<Ac 13:48>
+ecairen ] ecairon
+edoxazon ] edexanto
+<Ac 14:10>
+orywv ] oryov
+hlleto ] hlato
+<Ac 14:17>
+kaitoige ] kaitoi ge
+hmwn ] umwn
+<Ac 14:19>
+esuron ] esuran
+<Ac 14:23>
+ekklhsian ] + [kai]
+pepisteukeisan ] pepisteukasin
+<Ac 15:4>
+autwn ] + kai oti hnoixen toiv eynesin yuran pistewv
+<Ac 15:22>
+paulw ] tw paulw
+<Ac 15:33>
+apostolouv ] + [34 edoxen de tw sila epimeinai autou.] (= TR/St)
+<Ac 15:37>
+kaloumenon ] epikaloumenon
+<Ac 16:11>
+te ] de
+<Ac 16:12>
+kolwneia ] kolwnia
+<Ac 16:17>
+kai hmin ] kai tw sila
+<Ac 16:37>
+autoi ] + hmav
+<Ac 17:2>
+dielexato ] dielegeto
+<Ac 17:5>
+oi ioudaioi oi apeiyountev ] oi apeiyountev ioudaioi
+<Ac 17:7>
+legontev eteron ] eteron legontev
+<Ac 17:18>
+de kai ] de
+euhggelizeto ] + autoiv
+<Ac 17:30>
+ta nun ] tanun
+<Ac 18:2>
+tetacenai ] diatetacenai
+ek thv ] apo thv
+<Ac 18:3>
+emenen ] emeinen
+thn tecnhn ] th tecnh
+<Ac 18:17>
+emellen ] emelen
+<Ac 18:19>
+kai ekeinouv ] kakeinouv
+<Ac 18:21>
+all ] alla
+yelontov ] + kai
+<Ac 18:26>
+tou yeou odon ] odon tou yeou
+<Ac 19:1>
+tinav mayhtav ] mayhtav tinav
+<Ac 19:4>
+criston ihsoun ] ihsoun criston
+<Ac 19:16>
+katakurieusan ] katakurieusav
+<Ac 19:27>
+ieron artemidov ] artemidov ieron
+mellein de ] mellein te
+<Ac 19:33>
+probalontwn ] proballontwn
+<Ac 19:37>
+yeon ] yean
+<Ac 19:40>
+ou ou ] ou
+dounai ] apodounai
+<Ac 20:1>
+eiv thn ] eiv
+<Ac 20:5>
+proselyontev ] proelyontev
+<Ac 20:13>
+proselyontev ] proelyontev
+<Ac 20:15>
+trwgulliw ] trwguliw
+<Ac 20:21>
+ihsoun ] + [criston]
+<Ac 20:26>
+dioti ] dio
+<Ac 20:35>
+twn logwn ] ton logon
+<Ac 21:1>
+kwn ] kw
+<Ac 21:4>
+mayhtav ] [touv] mayhtav
+ierousalhm ] ierosoluma
+<Ac 21:8>
+oi peri ton paulon hlyon ] hlyomen
+<Ac 21:11>
+en ierousalhm ] eiv ierousalhm
+<Ac 21:14>
+genesyw ] ginesyw
+<Ac 21:20>
+eipontev ] eipon te
+<Ac 21:37>
+eipein ] + ti
+<Ac 21:40>
+prosefwnei ] prosefwnhsen
+<Ac 22:7>
+epesa ] epeson
+<Ac 22:12>
+katoikountwn ] + [en damaskw]
+<Ac 22:20>
+fulasswn ] kai fulasswn
+<Ac 22:23>
+krazontwn ] kraugazontwn
+riptountwn ] riptontwn
+<Ac 22:25>
+proeteinen ] proeteinan
+<Ac 23:7>
+touto ] toutou (sic)
+farisaiwn ] + kai twn saddoukaiwn
+<Ac 23:8>
+mhde ] mhte
+<Ac 23:20>
+mellonta ] mellontwn
+<Ac 23:29>
+mhden ] + de
+<Ac 23:35>
+hrwdou ] tou hrwdou
+<Ac 24:6>
+ekrathsamen ] + [kai kata ton hmeteron nomon hyelhsamen krinein:] +
+                [7 parelywn de lusiav o ciliarcov meta pollhv biav ek
+                twn ceirwn hmwn aphgagen,]
+<Ac 24:8>
+par ] [keleusav touv kathgorouv autou ercesyai epi se:] par
+<Ac 24:11>
+en ierousalhm ] eiv ierousalhm
+<Ac 24:13>
+parasthsai me ] parasthsai
+<Ac 24:14>
+kai toiv profhtaiv ] kai [toiv en] toiv profhtaiv
+<Ac 24:16>
+de ] + kai
+ecwn ] ecein
+<Ac 24:19>
+dei ] edei
+<Ac 24:24>
+gunaiki ] + autou
+<Ac 24:26>
+ama ] + de
+<Ac 24:27>
+te caritav ] de carin
+<Ac 25:9>
+toiv ioudaioiv yelwn ] yelwn toiv ioudaioiv
+ierosoluma ] ierousalhm
+<Ac 25:13>
+aspasamenoi ] aspasomenoi
+<Ac 25:14>
+dietriben ] dietribon
+<Ac 25:20>
+ierousalhm ] ierosoluma
+<Ac 26:1>
+apelogeito ekteinav thn ceira ] ekteinav thn ceira apelogeito
+<Ac 26:3>
+hywn ] eywn
+<Ac 26:7>
+ioudaiwn ] [twn] ioudaiwn
+<Ac 26:10>
+egw ] + en
+<Ac 26:18>
+upostreqai ] epistreqai
+<Ac 26:20>
+apaggellwn ] apaggellw (sic)
+<Ac 26:21>
+oi ioudaioi me ] me oi ioudaioi
+<Ac 26:22>
+ginesyai ] genesyai
+<Ac 26:26>
+ou gar ] + estin
+<Ac 26:30>
+bernikh ] berenikh (sic)
+<Ac 27:6>
+ekatontarcov ] ekatontarchv
+<Ac 27:10>
+fortiou ] fortou
+<Ac 27:17>
+surthn ] surtin
+<Ac 27:23>
+tauth th nukti ] th nukti tauth
+<Ac 27:33>
+hmellen ] emellen
+<Ac 27:34>
+proslabein ] metalabein
+<Ac 27:38>
+thv trofhv ] trofhv
+<Ac 27:39>
+dunaton ] dunainto
+<Ac 27:40>
+artemona ] artemwna
+<Ac 27:42>
+diafugh ] diafugoi
+<Ac 27:43>
+ekatontarcov ] ekatontarchv
+<Ac 28:3>
+ek thv ] apo thv
+<Ac 28:8>
+dusenteria ] dusenteriw
+epiyeiv ] kai epiyeiv
+<Ac 28:11>
+hcyhmen ] anhcyhmen
+<Ac 28:16>
+ekatontarcov ] ekatontarchv
+<Ac 28:28>
+apestalh ] + [touto]
+
+ROMANS (24)
+
+<Ro 1:24>
+eautoiv ] autoiv
+<Ro 1:27>
+te ] de
+oi arrenev ] oi arsenev
+<Ro 3:4>
+nikhshv ] nikhseiv
+<Ro 4:12>
+thv pistewv thv ] thv
+akrobustia ] + pistewv
+<Ro 4:19>
+thv mhtrav ] mhtrav
+<Ro 6:1>
+epimenomen ] epimenoumen
+<Ro 7:11>
+di authv ] dia authv
+<Ro 7:23>
+me tw nomw ] me [en] tw nomw
+<Ro 8:10>
+dia amartian ] di amartian
+<Ro 8:36>
+eneken ] eneka
+<Ro 9:3>
+eucomhn ] hucomhn
+<Ro 9:11>
+proyesiv tou yeou ] tou yeou proyesiv
+<Ro 9:12>
+errhyh ] erreyh
+<Ro 9:26>
+errhyh ] erreyh
+<Ro 9:32>
+dia ti ] diati
+<Ro 11:19>
+kladoi ] [oi] kladoi
+<Ro 11:21>
+mhpwv ] mh pwv
+<Ro 13:4>
+, ekdikov eiv orghn ] eiv orghn, ekdikov (note punctuation change)
+<Ro 15:4>
+kai dia thv ] kai thv
+<Ro 15:9>
+eynesin ] + kurie
+<Ro 15:14>
+allouv ] allhlouv
+<Ro 16:3>
+priskan ] priskillan
+
+1 CORINTHIANS (33)
+
+<1Co 3:2>
+edunasye ] hdunasye
+<1Co 3:14>
+epoikodomhsen ] epwkodomhsen
+<1Co 5:7>
+ekkayarate ] + [oun]
+<1Co 6:7>
+dia ti ] diati (2x)
+<1Co 6:11>
+all edikaiwyhte ] alla edikaiwyhte
+<1Co 6:16>
+ouk ] [h] ouk
+<1Co 7:13>
+htiv ] ei tiv
+<1Co 7:24>
+yew ] tw yew
+<1Co 7:35>
+euprosedron ] euparedron
+<1Co 7:39>
+de kai ] de
+koimhyh o anhr ] + authv
+<1Co 8:5>
+ghv ] thv ghv
+<1Co 9:9>
+mwusewv ] mwsewv
+<1Co 9:27>
+upwpiazw ] upopiazw
+<1Co 10:7>
+wsper ] wv
+<1Co 10:8>
+eikosi treiv ] eikositreiv
+<1Co 10:14>
+eidwlolatreiav ] eidwlolatriav
+<1Co 10:29>
+ina ti ] inati
+<1Co 11:15>
+dedotai ] + auth
+<1Co 11:27>
+tou kuriou anaxiwv tou kuriou ] tou kuriou anaxiwv
+tou aimatov ] aimatov
+<1Co 11:32>
+kuriou ] [tou] kuriou
+<1Co 12:21>
+o ofyalmov ] ofyalmov
+<1Co 12:25>
+scismata ] scisma
+<1Co 13:2>
+ouyen ] ouden
+<1Co 13:3>
+kauyhswmai ] kauyhsomai
+<1Co 14:30>
+apokalufyh ] apokakalufyh (sic)
+<1Co 14:37>
+kuriou ] tou kuriou
+<1Co 15:23>
+oi tou cristou ] oi cristou
+<1Co 15:39>
+pthnwn ] peteinwn
+<1Co 15:49>
+foreswmen ] foresomen
+<1Co 16:10>
+kai egw ] kagw
+
+2 CORINTHIANS (26)
+
+<2Co 1:4>
+epi ] en
+<2Co 1:5>
+dia tou ] dia
+<2Co 1:11>
+uper umwn ] uper hmwn
+<2Co 1:15>
+elyein prov umav ] prov umav elyein
+to proteron ] proteron
+<2Co 1:17>
+bouleuomenov ] boulomenov
+mh ti ] mhti
+<2Co 2:1>
+prov umav elyein ] elyein prov umav
+<2Co 3:3>
+all en ] alla en
+<2Co 3:6>
+apoktenei ] apoktennei
+<2Co 3:10>
+ou ] oude
+<2Co 3:14>
+o ti ] oti
+<2Co 4:2>
+alla apeipameya ] all apeipameya
+<2Co 5:3>
+eige ] ei ge
+<2Co 6:15>
+beliar ] belial
+<2Co 6:17>
+exelyete ] exelyate
+<2Co 8:1>
+gnwrizomen ] gnwrizw
+<2Co 11:4>
+hneicesye ] aneicesye
+<2Co 11:5>
+uper lian ] uperlian
+<2Co 11:11>
+dia ti ] diati
+<2Co 11:16>
+mhge ] mh ge
+<2Co 11:25>
+erabdisyhn ] errabdisyhn
+<2Co 11:31>
+kuriou ] + hmwn
+<2Co 12:11>
+uper lian ] uperlian
+<2Co 12:18>
+mh ti ] mhti
+<2Co 12:21>
+tapeinwsei ] tapeinwsh
+
+GALATIANS (11)
+
+<Ga 1:4>
+peri ] uper
+<Ga 2:9>
+hmeiv men ] hmeiv
+<Ga 2:16>
+eidotev ] + [de]
+<Ga 3:4>
+eige ] ei ge
+<Ga 3:16>
+errhyhsan ] erreyhsan
+<Ga 3:18>
+ex epaggeliav ] ex epagggeliav (sic 1904 edition; corrected in 1912 edition)
+<Ga 3:23>
+tou de ] de tou
+<Ga 4:30>
+ou gar mh ] ou mh gar
+klhronomhsh ] klhronomhsei
+<Ga 5:14>
+eauton ] seauton
+<Ga 5:15>
+upo allhlwn ] up allhlwn
+<Ga 5:20>
+eidwlolatreia ] eidwlolatria
+
+EPHESIANS (7)
+
+<Eph 1:4>
+kaywv ] + [kai]
+<Eph 1:20>
+twn nekrwn ] nekrwn
+<Eph 3:8>
+agiwn ] twn agiwn
+<Eph 3:20>
+uper ekperissou ] uperekperissou
+<Eph 5:23>
+anhr ] [o] anhr
+<Eph 6:6>
+ofyalmodouleian ] ofyalmodoulian
+<Eph 6:17>
+dexasyai ] dexasye
+
+PHILIPPIANS (6)
+
+<Php 1:6>
+cristou ihsou ] ihsou cristou
+<Php 1:23>
+pollw ] + [gar]
+<Php 2:27>
+yanatw alla ] yanatou all
+<Php 3:8>
+men oun ] menounge
+<Php 3:13>
+ou ] oupw
+<Php 3:21>
+eautw ] autw
+
+COLOSSIANS (15)
+
+<Col 1:12>
+tw patri ] tw [yew kai] patri
+<Col 1:20>
+epi toiv ] en toiv
+<Col 1:23>
+eige ] ei ge
+<Col 1:24>
+payhmasin ] + [mou]
+<Col 1:27>
+ti to ] tiv o
+<Col 2:14>
+hrken ] hren
+<Col 2:20>
+ei ] + oun
+cristw ] tw cristw
+<Col 2:23>
+eyeloyrhskeia ] eyeloyrhskia
+<Col 3:5>
+eidwlolatreia ] eidwlolatria
+<Col 3:18>
+idioiv andrasin ] andrasin
+<Col 3:20>
+en kuriw ] tw kuriw
+<Col 3:22>
+ofyalmodouleiaiv ] ofyalmodouliaiv
+<Col 3:24>
+lhqesye ] apolhqesye
+<Col 4:16>
+laodikaiwn ] laodikewn
+
+1 THESSALONIANS (9)
+
+<1Th 1:7>
+kai ] + [en]
+<1Th 2:19>
+ihsou ] + [cristou]
+<1Th 2:20>
+kai h cara ] kai cara
+<1Th 3:5>
+mhpwv ] mh pwv
+<1Th 3:8>
+sthkete ] sthkhte
+<1Th 3:9>
+di umav ] di hmav (sic 1904 edition; corrected in 1912 edition)
+<1Th 3:10>
+uper ekperissou ] uperekperissou
+<1Th 4:1>
+loipon ] to loipon
+<1Th 5:8>
+hmeiv ] umeiv
+<1Th 5:13>
+uper ekperissou ] uperekperissou
+
+2 THESSALONIANS (3)
+
+<2Th 1:8>
+ihsou ] + [cristou]
+<2Th 1:12>
+hmwn ihsou ] + [cristou]
+<2Th 2:2>
+dia pneumatov ] dia tou pneumatov
+
+1 TIMOTHY (9)
+
+<1Ti 1:13>
+alla ] all
+<1Ti 3:2>
+nhfaleon ] nhfalion
+<1Ti 3:11>
+nhfaleouv ] nhfaliouv
+<1Ti 4:2>
+kekauthriasmenwn ] kekausthriasmenwn
+<1Ti 4:8>
+epaggelian ] epaggeliav
+<1Ti 5:4>
+estin ] + kalon kai
+<1Ti 6:5>
+diaparatribai ] paradiatribai
+<1Ti 6:12>
+eiv hn ] + [kai]
+<1Ti 6:20>
+parayhkhn ] parakatayhkhn
+
+2 TIMOTHY (6)
+
+<2Ti 1:1>
+ihsou cristou ] cristou ihsou
+<2Ti 1:15>
+fugelov ] fugellov
+<2Ti 3:6>
+aicmalwteuontev ] aicmalwtizontev
+<2Ti 3:8>
+mwush ] mwusei
+<2Ti 3:11>
+egeneto ] egenonto
+<2Ti 4:13>
+felonhn ] failonhn
+
+TITUS (3)
+
+<Tit 1:15>
+memiasmenoiv ] memiammenoiv
+<Tit 2:2>
+nhfaleouv ] nhfaliouv
+<Tit 3:8>
+yew ] tw yew
+
+PHILEMON (1)
+
+<Phm 1:23>
+aspazontai ] aspazetai
+
+HEBREWS (19)
+
+<Heb 2:1>
+mhpote ] mh pote
+<Heb 3:2>
+poihsanti ] poihsatin (sic 1904 edition; corrected in 1912 edition)
+<Heb 3:12>
+mhpote ] mh pote
+<Heb 4:1>
+mhpote ] mh pote
+<Heb 6:3>
+poihswmen ] poihsomen
+<Heb 6:9>
+kreissona ] kreittona
+<Heb 8:6>
+tetucen ] teteucen
+<Heb 9:1>
+prwth ] + skhnh
+<Heb 9:19>
+kata nomon ] kata ton nomon
+<Heb 10:1>
+dunantai ] dunatai
+<Heb 10:10>
+oi dia ] dia
+ihsou ] tou ihsou
+<Heb 10:19>
+ihsou ] tou ihsou
+<Heb 10:34>
+eautoiv ] en eautoiv
+<Heb 11:6>
+dei ] dh (sic 1904 edition; corrected in 1912 edition)
+<Heb 11:8>
+hmellen ] emellen
+<Heb 11:9>
+ghn ] thn ghn
+<Heb 12:7>
+eiv ] ei
+<Heb 12:25>
+ghv ] thv ghv
+<Heb 12:28>
+latreuomen ] latreuwmen
+<Heb 13:5>
+egkataleipw ] egkatalipw
+
+JAMES (19)
+
+<Jas 1:26>
+alla ] all
+<Jas 1:27>
+yew ] [tw] yew
+<Jas 2:10>
+thrhsei ] thrhsh
+ptaisei ] ptaish
+<Jas 2:11>
+mh moiceuseiv ] mh moiceushv
+mh foneuseiv ] mh foneushv
+<Jas 2:13>
+eleon ] eleov
+<Jas 4:2>
+polemeite ] + [kai]
+<Jas 4:7>
+de tw ] tw
+<Jas 4:12>
+nomoyethv ] + kai krithv
+<Jas 4:13>
+poreuswmeya ] poreusomeya
+poihswmen ] poihsomen
+emporeuswmeya ] emporeusomeya
+kerdhswmen ] kerdhsomen
+<Jas 4:15>
+zhswmen ] zhsomen
+poihswmen ] poihsomen
+<Jas 5:7>
+ep auton ] ep autw
+<Jas 5:11>
+idete ] eidete
+estin ] + o kuriov
+
+1 PETER (14)
+
+<1Pe 1:7>
+polu timiwteron ] polutimoteron
+eiv doxan ] doxan
+<1Pe 2:2>
+auxhyhte ] + [eiv swthrian]
+<1Pe 2:11>
+apecesyai ] apecesye
+<1Pe 2:14>
+ekdikhsin ] + [men]
+<1Pe 2:17>
+agaphsate ] agapate
+<1Pe 3:5>
+yeon ] ton yeon
+<1Pe 3:18>
+umav ] hmav
+<1Pe 4:3>
+hmin ] umin
+eidwlolatreiaiv ] eidwlolatriaiv (1912 edition; 1904 edition has eidwlolatreiaiv)
+<1Pe 4:8>
+oti agaph ] oti [h] agaph
+<1Pe 4:14>
+doxhv ] + kai dunamewv
+<1Pe 5:3>
+mhde ] mhd
+<1Pe 5:10>
+katartisai ] katartisei
+
+2 PETER (2)
+
+<2Pe 3:3>
+escatou ] escatwn
+<2Pe 3:10>
+oi ouranoi ] ouranoi
+
+1 JOHN (10) [taking 5:7-8 as one variant]
+
+<1Jo 1:5>
+estin auth ] auth estin
+aggelia ] <epaggelia> (ep- in small type)
+<1Jo 2:13>
+grafw umin paidia ] egraqa umin paidia
+<1Jo 4:2>
+ginwsketai ] ginwskete
+<1Jo 4:3>
+ihsoun ] ton ihsoun
+<1Jo 4:16>
+en autw menei ] en autw
+<1Jo 4:20>
+agapwn ton adelfon autou ] agapwn ton adelfon
+<1Jo 5:7>
+marturountev ] + [[en tw ouranw o pathr o logov kai to agion pneuma kai
+ outoi oi treiv en eisin]]
+<1Jo 5:8>
+to pneuma ] [[kai treiv eisin oi marturountev en th gh]] to pneuma
+<1Jo 5:15>
+o ean ] o an
+<1Jo 5:21>
+eauta ] eautouv
+
+2 JOHN (2)
+
+<2Jo 1:3>
+hmwn ] umwn
+<2Jo 1:12>
+eboulhyhn ] hboulhyhn
+
+3 JOHN (1)
+
+<3Jo 1:7>
+eynwn ] eynikwn
+
+JUDE (4)
+
+<Jude 1:4>
+despothn yeon ] despothn
+<Jude 1:9>
+mwusewv ] mwsewv
+<Jude 1:13>
+eiv aiwna ] eiv ton aiwna
+<Jude 1:23>
+ek purov ] ek [tou] purov
+
+REVELATION (262)
+
+<Re 1:8>
+alfa ] a
+<Re 1:9>
+koinwnov ] sugkoinwnov
+cristw ihsou ] ihsou [cristw]
+<Re 1:16>
+autou ceiri ] ceiri autou
+<Re 1:17>
+dexian autou ] + [ceira]
+<Re 1:18>
+aiwnwn amhn ] aiwnwn
+<Re 2:3>
+ouk ekopiasav ] ou kekopiakav
+<Re 2:10>
+hmerwn ] hmerav
+<Re 2:13>
+pistin mou ] + [kai]
+en aiv ] aiv
+<Re 2:14>
+all ] alla
+<Re 2:17>
+fagein tou manna ] tou manna
+   ** Note: the electronic text has been changed from the minority
+   reading "fagein tou manna" to the more strongly supported "tou
+   manna" identical with the Antoniades text
+<Re 2:20>
+all ] alla
+kata sou ] + oliga
+<Re 3:2>
+emellev ] emellon
+apoballein ] apoynhskein
+<Re 3:3>
+gnwv ] gnwsh
+<Re 3:4>
+all ] alla
+oliga eceiv ] eceiv oliga
+<Re 3:5>
+outov ] outwv
+<Re 3:7>
+authn ei mh o anoigwn ] kai kleiwn
+<Re 3:9>
+hxwsin ] hxousin
+proskunhswsin ] proskunhsousin
+oti ] + [egw]
+<Re 3:16>
+ou zestov ] oute zestov
+<Re 3:17>
+legeiv ] + oti
+<Re 3:18>
+crusion par emou ] par emou crusion
+<Re 3:19>
+zhlwson ] zhleue
+<Re 4:5>
+yronou autou ] yronou
+eisin ] + ta
+<Re 4:7>
+econ ] + to
+proswpon ] + wv
+<Re 4:8>
+econ ] autwn econ
+<Re 4:11>
+o yeov ] yeov
+o agiov labein ] labein
+ektisav ] + ta
+<Re 5:3>
+ouranw anw ] ouranw
+<Re 5:5>
+o anoigwn ] anoixai
+<Re 5:8>
+epeson ] epesan
+proseucai ] ai proseucai
+<Re 5:13>
+pantav ] panta
+aiwnwn amhn ] aiwnwn
+<Re 5:14>
+legonta to ] elegon
+epeson ] epesan
+<Re 6:1>
+ercou kai ide ] ercou
+<Re 6:2>
+kai idou ] kai eidon kai idou
+<Re 6:3>
+thn deuteran sfragida ] thn sfragida thn deuteran
+<Re 6:4>
+purov ] purrov
+ina ] kai ina
+<Re 6:5>
+kai ide ] kai eidon
+<Re 6:6>
+hkousa ] + [wv]
+<Re 6:7>
+hkousa ] + [fwnhn]
+ercou kai ide ] ercou
+<Re 6:8>
+kai idou ] kai eidon kai idou
+hkolouyei autw ] hkolouyei met autou
+<Re 6:10>
+alhyinov ] o alhyinov
+<Re 6:11>
+cronon ] + [mikron]
+kai oi mellontev ] oi mellontev
+apoktenesyai ] apoktennesyai
+<Re 6:13>
+epeson ] epesan
+balousa ] ballousa
+<Re 6:16>
+pesete ] pesate
+<Re 7:1>
+ti ] pan
+<Re 7:4>
+ekaton kai ] ekaton
+esfragismenwn ek ] esfragismenoi ek
+<Re 7:5>
+esfragismenai ] esfragismenoi
+roubim ] roubhn
+<Re 7:7>
+isacar ] issacar
+<Re 7:8>
+esfragismenai ] esfragismenoi
+<Re 7:9>
+ariymhsai ] + auton
+foinikav ] foinikev
+<Re 7:10>
+tw yronw ] tou yronou
+<Re 7:11>
+epeson ] epesan
+<Re 7:14>
+eipon ] eirhka
+eleukanan ] + autav
+<Re 7:15>
+epi tw yronw ] epi tou yronou
+<Re 7:17>
+odhgei ] odhghsei
+<Re 8:3>
+dwsh ] dwsei
+<Re 8:8>
+mega ] + [puri]
+<Re 8:9>
+en th ] twn en th
+<Re 8:13>
+toiv katoikousin ] touv katoikountav
+<Re 9:7>
+crusoi ] omoioi crusiw
+<Re 9:11>
+ecousai ] ecousin
+aggelon ] [ton] aggelon
+abbadwn ] abaddwn
+<Re 9:12>
+ercetai ] ercontai
+<Re 9:14>
+legousan ] legontov
+<Re 9:16>
+muriadev ] [duo] muriadev
+<Re 9:18>
+apo tou purov ] ek tou purov
+<Re 9:19>
+ofewn ] ofesin
+<Re 10:1>
+aggelon ] [allon] aggelon
+<Re 10:6>
+wmosen ] + en
+<Re 10:9>
+aphlyon ] aphlya
+<Re 10:11>
+epi eynesin ] eynesin
+<Re 11:1>
+egeirai ] egeire
+<Re 11:2>
+kai duo ] duo
+<Re 11:6>
+ton ouranon exousian ] exousian ton ouranon
+osakiv ean yelhswsin en pash plhgh ] en pash plhgh osakiv ean yelhswsin
+<Re 11:9>
+treiv ] + kai
+<Re 11:10>
+dwsousin ] pemqousin
+<Re 11:11>
+epesen ] epepesen
+<Re 11:16>
+kayhmenoi ] oi kayhntai
+epeson ] epesan
+<Re 11:17>
+o hn ] + [kai o ercomenov]
+<Re 11:18>
+nekrwn ] eynwn
+kai toiv foboumenoiv ] toiv foboumenoiv
+diafyeirontav ] diafyeirantav
+<Re 11:19>
+yeou ] + o
+tou kuriou ] kuriou
+brontai ] + kai seismov
+<Re 12:3>
+purov ] purrov
+<Re 12:6>
+upo ] apo
+ektrefwsin ] trefwsin
+<Re 12:7>
+polemhsai ] [tou] polemhsai
+<Re 12:9>
+o megav o ofiv ] o ofiv o megav
+satanav ] [o] satanav
+<Re 12:12>
+th gh ] thn ghn
+th yalassh ] thn yalassan
+<Re 13:3>
+wsei ] wv
+<Re 13:4>
+kai tiv dunatov ] tiv dunatai
+<Re 13:7>
+poihsai polemon ] polemon poihsai
+<Re 13:8>
+autw ] auton
+<Re 13:10>
+ecei aicmalwsian upagei ] eiv aicmalwsian [apagei] eiv aicmalwsian upagei
+apoktenei ] [apoktennei]
+<Re 13:12>
+kai epoiei ] kai poiei
+<Re 13:13>
+epi ] eiv
+<Re 13:14>
+touv emouv touv ] touv
+o eicen ] ov eicen
+kai ezhsen apo thv macairav ] thv macairav kai ezhsen
+<Re 13:15>
+apoktanywsin ] [ina] apoktanywsin
+<Re 13:16>
+dwswsin ] dwsousin
+caragmata ] caragma
+to metwpon ] twn metwpwn
+<Re 13:17>
+dunatai ] dunhtai
+<Re 13:18>
+estin exakosia exhkonta ex ] cxv
+<Re 14:1>
+met autou ariymov ] met autou
+<Re 14:4>
+outoi upo ihsou ] outoi
+<Re 14:5>
+en tw stomati autwn qeudov ] qeudov en tw stomati autwn
+<Re 14:6>
+aggelon ] allon aggelon
+touv ] epi touv
+<Re 14:7>
+auton ton poihsanta ] tw poihsanti
+<Re 14:8>
+epesen ] + epesen
+ek ] h ek
+panta ta eynh ] panta eynh
+<Re 14:9>
+caragma ] to caragma
+<Re 14:13>
+legei nai ] nai legei
+<Re 14:14>
+kayhmenon omoion ] kayhmenov omoiov
+<Re 14:15>
+yerisai ] [tou] yerisai
+<Re 14:18>
+hkmasan ai stafulai authv ] hkmasen h stafulh thv ghv
+<Re 14:19>
+ton megan ] thn megalhn
+<Re 14:20>
+exwyen ] exw
+<Re 15:2>
+kiyarav ] [tav] kiyarav
+<Re 15:4>
+fobhyh se ] fobhyh
+agiov ] osiov
+<Re 15:8>
+naov ] + ek tou
+<Re 16:1>
+fwnhv megalhv ] megalhv fwnhv
+<Re 16:8>
+tetartov aggelov ] tetartov
+<Re 16:12>
+eufrathn ] [ton] eufrathn
+<Re 16:13>
+akayarta tria ] tria akayarta
+<Re 16:17>
+apo tou naou ] ek tou naou
+<Re 16:18>
+brontai kai fwnai ] fwnai kai brontai
+kai seismov ] + egeneto
+<Re 16:19>
+epeson ] epesan
+<Re 16:21>
+authv ] auth
+<Re 17:1>
+twn udatwn twn pollwn ] udatwn pollwn
+<Re 17:3>
+yhrion kokkinon ] [to] yhrion [to] kokkinon
+<Re 17:4>
+kecruswmenh ] kai kecruswmenh
+porneiav authv ] porneiav thv ghv
+<Re 17:6>
+agiwn ] + kai
+<Re 17:7>
+dia ti ] diati
+<Re 17:8>
+ta onomata ] ta onoma (sic!)
+oti hn to yhrion ] to yhrion oti hn
+<Re 17:9>
+epta orh ] orh epta
+<Re 17:10>
+eisin epta ] epta eisin
+epeson ] epesan
+dei auton ] auton dei
+<Re 17:13>
+ecousin gnwmhn ] gnwmhn ecousin
+<Re 17:16>
+gumnhn poihsousin authn ] gumnhn
+<Re 17:17>
+gnwmhn mian ] mian gnwmhn
+<Re 18:2>
+ekraxen ] + en
+epesen ] + epesen
+daimonwn ] daimoniwn
+<Re 18:3>
+peptwkasin ] pepwkan
+<Re 18:4>
+ek twn plhgwn authv ina ] ina ek twn plhgwn authv
+<Re 18:7>
+authn ] eauthn
+basilissa ] [kaywv] basilissa
+<Re 18:9>
+klausousin ] + authn
+ep authn ] ep auth
+<Re 18:12>
+porfurou ] porfurav
+<Re 18:13>
+kai yumiamata ] kai amwmon kai yumiamata
+kai probata kai kthnh ] kai kthnh kai probata
+raidwn ] redwn
+<Re 18:14>
+aphlyen ] apwleto
+apwleto ] aphlyen
+auta ou mh eurhv ] ou mh auta eurhseiv
+<Re 18:16>
+kai legontev ] legontev
+crusiw ] en crusiw
+<Re 18:19>
+kai legontev ] legontev
+<Re 19:1>
+h dunamiv kai h doxa ] h doxa kai h dunamiv
+<Re 19:3>
+eirhken ] eirhkan
+<Re 19:4>
+epeson ] epesan
+oi presbuteroi oi eikosi tessarev ] oi eikosi kai tessarev presbuteroi
+tou yronou ] tw yronw
+<Re 19:6>
+legontev ] legontwn
+yeov hmwn ] yeov
+<Re 19:8>
+kai kayaron ] kayaron
+<Re 19:12>
+flox ] wv flox
+<Re 19:13>
+bebammenon ] + [en]
+kaleitai ] keklhtai
+<Re 19:15>
+distomov oxeia ] oxeia [distomov]
+pataxh ] patassh
+<Re 19:17>
+eidon ] + ena
+ekraxen ] + [en]
+<Re 19:19>
+poihsai ] + ton
+<Re 20:2>
+olhn kai edhsen ] kai edhsen
+<Re 20:3>
+kai meta tauta ] meta tauta
+<Re 20:4>
+oude ] oute
+metwpon ] + autwn
+ta cilia ] cilia
+<Re 20:5>
+acri ] ewv
+<Re 20:8>
+ariymov ] + autwn
+<Re 20:9>
+ekuklwsan ] ekukleusan
+<Re 20:10>
+yeiou ] tou yeiou
+<Re 20:11>
+ep auton ] ep autw
+<Re 20:12>
+hnewcyhsan ] hnoicyhsan
+hnewcyh ] hnoicyh
+<Re 20:14>
+estin h limnh tou purov ] estin
+<Re 20:15>
+tw bibliw ] th biblw
+<Re 21:3>
+estai met autwn ] met autwn estai
+<Re 21:4>
+exaleiqei ] + [ap autwn] o yeov
+<Re 21:5>
+panta kaina poiw ] kaina poiw panta
+alhyinoi kai pistoi ] pistoi kai alhyinoi
+<Re 21:6>
+gegona ] gegonen
+to alfa ] egw to a
+<Re 21:7>
+klhronomhsei ] estai autw
+<Re 21:8>
+apistoiv kai amartwloiv ] apistoiv
+kaiomenh ] + en
+<Re 21:9>
+eiv ek ] eiv
+fialav ] + tav
+thn gunaika thn numfhn ] thn numfhn thn gunaika
+<Re 21:10>
+polin thn megalhn ] polin
+<Re 21:13>
+apo anatolwn ] ap anatolwn
+<Re 21:16>
+oson ] + [kai]
+polin ] + [en]
+dwdeka ciliadwn dwdeka ] dwdeka ciliadwn
+<Re 21:18>
+uelw ] ualw
+<Re 21:20>
+ameyusov ] ameyustov
+<Re 21:21>
+uelov ] ualov
+<Re 21:24>
+autw doxan kai timhn twn eynwn ] thn doxan kai [thn] timhn autwn
+<Re 21:27>
+poioun ] [o] poiwn
+<Re 22:1>
+potamon kayaron ] potamon
+<Re 22:2>
+apodidouv ] apodidoun
+<Re 22:5>
+ekei ] eti
+creian ouk ecousin ] ou creia
+<Re 22:8>
+epeson ] epesa
+<Re 22:11>
+dikaiosunhn ] dikaisunhn (sic 1904 edition; corrected in 1912 edition)
+<Re 22:13>
+alfa ] a
+h arch kai to telov ] arch kai telov
+<Re 22:15>
+pav ] + [o]
+<Re 22:17>
+ercesyw ] + kai
+<Re 22:18>
+ep auta ] epi tauta
+epiyhsai ] epiyhsei
+<Re 22:19>
+afeloi ] afelei
+
+-end-
