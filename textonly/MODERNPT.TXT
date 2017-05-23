@@ -1,0 +1,243 @@
+The following collation by Jussi Ala-Konni reflects the differences
+between the the text of the electronic Antoniades 1904/1912 Patriarchal
+Edition and the authorized 1904 text of the Ecumenical Patriarchate of
+Constantinople, as posted at the internet site of the Greek Orthodox
+Archdiocese of America in 2009-2010, from which site the following
+description is quoted:
+
+"The Greek New Testament displayed is the authorized 1904 text of the
+Ecumenical Patriarchate of Constantinople. The Patriarchal text has
+been made available courtesy of the Greek Bible society and was
+digitized in XML in cooperation with the Greek Orthodox Archdiocese
+Department of Internet Ministries, the Greek Bible Society and the
+American Bible Society IT Department's OSIS project.
+
+"The Open Scriptural Information Standard (OSIS) was developed by the
+Bible Technologies Group in co-sponsorship with the American Bible
+Society and the Society of Biblical Literature.
+
+"The mission of the Bible Technologies Group is to maximize production,
+distribution, access, use, impact, and preservation of the Bible and
+related materials from all time periods."
+
+The collation lists all differences, including typographic errors,
+between the two texts as found in the comparison, except where
+bracketed words appear in the electronic Antoniades 1904/1912 text.
+These bracketed words, which correspond to small print in the original
+1904/1912 Antoniades text, without exception appear as part of the
+Patriarchal text but indistinct in type from the rest of the text.
+
+The verse numbering corresponds to the electronic Antoniades 1904/1912
+text.
+
+Antoniades 1904/1912 text ] the Patriarchal text
+
+An appended asterisk * indicates that the change from Antoniades
+1904/1912 shows the Patriarchal text agreeing with the
+Robinson-Pierpont Byzantine Textform 2005 edition.
+
+In one case (Mr 7:16), the asterisk is surrounded by parentheses (*).
+This indicates that the entire verse is lacking in the Antoniades
+1904/1912 edition and though present in the Patriarchal edition, it
+appears in brackets, unlike the Robinson-Pierpont Byzantine Textform
+2005 edition, which has no brackets.
+
+<Mt 7:7>
+anoighsetai hmin ] anoighsetai umin *
+<Mt 15:22>
+ekraugasen ] ekraugazen
+<Mt 15:27>
+qiciwn ] quciwn
+<Mt 15:39>
+enebh ] anebh
+<Mt 23:39>
+idete ] idhte *
+<Mt 24:15>
+danihl ] dianihl
+<Mt 25:9>
+arkesei ] arkesh *
+<Mt 26:29>
+genhmatov ] gennhmatov *
+<Mt 26:74>
+katayematizein ] katanayematizein
+<Mt 27:9>
+tetimhmhmenou ] tetimhmenou *
+<Mt 27:42>
+pisteuswmen ] pisteusomen *
+
+<Mr 3:2>
+pareththroun ] parethroun *
+<Mr 4:3>
+exhlyen ] exhyen
+<Mr 7:16>
+OMIT VERSE ] [ei tiv ecei wta akouein akouetw] (*)
+<Mr 7:19>
+all ] alla
+<Mr 9:22>
+bohyhson umin ] bohyhson hmin *
+<Mr 12:31>
+eauton ] seauton *
+<Mr 14:25>
+genhmatov ] gennhmatov
+
+<Lu 1:59>
+zacacarian ] zacarian *
+<Lu 4:17>
+epedodh ] epedoqh *
+<Lu 4:26>
+sarapta ] sarepta *
+<Lu 8:56>
+authv ] autoiv
+<Lu 9:13>
+agorasomen ] agoraswmen *
+<Lu 10:27>
+eauton ] seauton *
+<Lu 18:5>
+upopiazh ] upwpiazh
+<Lu 21:34>
+biwtikaiv ] biotikaiv
+<Lu 21:38>
+orei ] ierw *
+<Lu 22:31>
+suniasai ] siniasai *
+<Lu 24:10>
+ai loipai ] oi loipai
+
+<Joh 4:20>
+umwn ] hmwn *
+<Joh 10:23>
+solomwnov ] solomwntov
+<Joh 11:27>
+su ] + ei *
+<Joh 12:13>
+basileuv ] o basileuv
+<Joh 17:2>
+dwsei ] dwsh
+<Joh 19:31>
+ekeinou ] ekeinh
+
+<Ac 4:35>
+diedidoto ] diedideto
+<Ac 4:36>
+apo ] upo
+<Ac 16:34>
+hgalliato ] hgalliasato
+<Ac 18:21>
+alla ] all *
+<Ac 20:14>
+mitulhnhn ] mutilhnhn
+<Ac 20:35>
+ton logon ] twn logwn *
+<Ac 23:7>
+toutou ] touto *
+<Ac 24:16>
+aproskopon ] aproskopton
+<Ac 26:30>
+berenikh ] bernikh *
+<Ac 27:17>
+bohyeiaiv ] bohyeiav
+
+<Ro 2:6>
+ta erga ] erga
+<Ro 3:4>
+nikhseiv ] nikhshv *
+<Ro 4:19>
+mhtrav ] thv mhtrav *
+<Ro 11:4>
+th baal ] tw baal
+
+<1Co 8:8>
+perisseuomen ] perisseuwmen
+<1Co 9:9>
+mwsewv ] mwusewv *
+<1Co 10:14>
+eidwlolatriav ] eidwlolatreiav *
+<1Co 13:3>
+kauyhsomai ] kauyhswmai *
+<1Co 14:5>
+diermhneuei ] diermhneuh
+<1Co 14:30>
+apokakalufyh ] apokalufyh *
+
+<2Co 8:2>
+bayouv ] bayov
+<2Co 9:2>
+uper umwn ] uper hmwn
+
+<Ga 1:24>
+ton yeon ] to yeon
+
+<Eph 2:21>
+oikodomh ] h oikodomh
+<Eph 3:12>
+thv pistewv ] pistewv
+
+<Php 2:21>
+cristou ] tou cristou
+<Php 4:22>
+umav pantev ] umav
+
+<Col 1:2>
+kolassaiv ] kolossaiv
+<Col 2:23>
+eyeloyrhskia ] eyeloyrhskeia *
+
+<1Th 2:20>
+cara ] h cara *
+
+<2Th 2:2>
+tou pneumatov ] pneumatov *
+
+<1Ti 5:21>
+prosklhsin ] prosklisin
+
+2Ti: none
+
+Tit: none
+
+Phm: none
+
+<Heb 1:9>
+emishsav ] emimhsav
+<Heb 8:11>
+didaxwsin ] didaxousin
+
+Jas: none
+
+<1Pe 2:21>
+uper hmwn ] uper umwn
+<1Pe 4:11>
+wv corhgei ] hv corhgei
+
+2Pe: none
+
+<1Jo 2:27>
+elabete ] elabate
+<1Jo 3:1>
+umav ] hmav
+
+2Jo: none
+
+3Jo: none
+
+<Jude 1:5>
+ghv aiguptou ] thv aiguptou
+<Jude 1:18>
+asebeiwn ] asebiwn
+
+<Re 7:17>
+poimainei ] poimanei
+<Re 8:3>
+dwsei ] dwsh *
+<Re 11:18>
+diafyeirantav ] diafyeirontav *
+<Re 13:16>
+dwsousin ] dwswsin *
+<Re 17:8>
+ta onoma ] to onoma
+<Re 18:8>
+kuriov o yeov ] kuriov yeov
+<Re 20:4>
+ekayisan ] ekayhsan
+
+-end-
