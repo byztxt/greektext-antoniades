@@ -1,5 +1,3 @@
-import sys
-import unicodedata
 import beta_code
 import re
 import os 
